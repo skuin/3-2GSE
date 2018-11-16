@@ -1,0 +1,4 @@
+﻿  ScnMgr.cpp
+c:\ju\kpu\3-2\gamesoftengineering\simplegame\simplegame\scnmgr.cpp(48): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+c:\ju\kpu\3-2\gamesoftengineering\simplegame\simplegame\scnmgr.cpp(98): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  SimpleGame.vcxproj -> C:\JU\KPU\3-2\GamesoftEngineering\SimpleGame\x64\Debug\SimpleGame.exe
